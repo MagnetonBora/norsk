@@ -73,3 +73,42 @@ Er det vanskelig å snakke norsk? = Трудно ли говорить по-но
 * Конструкция **prøve å + infinitiv** = «пытаться что-то сделать».
 	* **Jeg prøver å lære norsk** — «Я стараюсь учить норвежский».
 * **hjemme** — наречие, значит «дома» (а не *в дом*).
+
+---
+
+Tor snakker norsk, men han kan også snakke engelsk og spansk. John snakker engelsk. Han prøver å snakke norsk. Han går på norskkurs.
+
+Maria leser for Sandro og Sandra. Maria kan lese spansk, engelsk og litt norsk. Hun liker å lese.
+
+Bartek spiser middag kvart over fem. Han pleier å spiser middag alene.
+
+Bartek tar toget til jobb. Han liker å ta toget.
+
+Maria arbeider på et kontor. Hun begynner å arbeide klokka kvart på åtte. Hun slutter å arbeide klokka fire.
+
+---
+
+John bor i Tunveien 10. Han kommer fra USA. Han snakker engelsk. John er gift med Anne. De har ei jente. Hun heter Stella. Stella er 4 år. Stella går i norsk barnehage. De prøver å snakke norsk hjemme, men det er vanskelig.
+
+---
+
+Urai kommer fra Thailand. Hun er gift med Arne.
+
+Arne snakker norsk. Arne og Urai snakker engelsk og norsk hjemme. Arne kan ikke snakke thai. Urai snakker litt norsk. Hun går på norskkurs. Det er lett å snakke norsk, men det er vanskelig å snakke thai, sier Arne.
+
+---
+
+Bartek begynner å arbeide klokka sju.
+
+Unnskyld at jeg kommer for sent! = Извините, я опоздал!
+
+De tar bussen hjem. = Они едут домой на автобусе.
+
+Hun sover fra klokka elleve til klokka halv sju. = Она спит с одиннадцати до половины седьмого.
+
+Jeg tar toget hjem også = ...
+
+Jeg pleier å trene etter jobb = ...
+
+Jeg sover mellom halv elleve og halv seks = ...
+
