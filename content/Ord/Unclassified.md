@@ -11,7 +11,11 @@ snill = добрый
 hele = весь
 enke = вдова
 
+Med en gang = Сразу же/немедленно
+
 Far = отец
+
+bra = хорошо
 
 fire år siden = 4 года назад
 
@@ -19,6 +23,9 @@ Det er fint = That's nice
 
 trist = грустно
 veldig = очень
+
+bordet = стол
+pleier = обычно (usually)
 
 Jeg savner far = Я скучаю по отцу
 
