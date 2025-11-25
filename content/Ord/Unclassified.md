@@ -6,6 +6,26 @@ tags:
   - vocabulary
   - misc
 ---
+veldig = очень
+snill = добрый
+hele = весь
+enke = вдова
+
+Far = отец
+
+fire år siden = 4 года назад
+
+Det er fint = That's nice
+
+trist = грустно
+veldig = очень
+
+Jeg savner far = Я скучаю по отцу
+
+savner = скучать
+
+Det er stille og rolig her = Здесь тихо и спокойно (It's quiet and peaceful here)
+
 støvsuger = пылесос
 til venstre = налево
 til høyre = направо
@@ -16,6 +36,9 @@ nyheter = новости
 å ha = иметь (De har to barn)
 å lese = читать
 å gjør = делать
+
+skogen = лес
+søsken = братья и сестры (как в польском rodzeństwo)
 
 å ta = брать
 å sove = спать
