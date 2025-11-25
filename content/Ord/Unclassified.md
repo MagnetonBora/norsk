@@ -11,6 +11,8 @@ snill = добрый
 hele = весь
 enke = вдова
 
+Flott! = veldi bra
+
 Med en gang = Сразу же/немедленно
 
 Far = отец
