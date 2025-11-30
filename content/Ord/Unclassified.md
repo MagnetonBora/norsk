@@ -13,6 +13,12 @@ enke = вдова
 
 Flott! = veldi bra
 
+Tre ganger i uka = 3 раза в неделю
+
+Noen ganger = иногда
+
+løper = бежит
+
 Med en gang = Сразу же/немедленно
 
 Far = отец
@@ -192,7 +198,7 @@ Agurk = огурец
 Mais = кукуруза
 Tomater = помидоры
 
-Værsågod = пожалуйста
+Vær så god = пожалуйста
 
 handlelapp = список покупок
 
@@ -328,3 +334,4 @@ Ha det! [/hɑ dɛ/] – Пока! (сокращение от "Ha det bra")
 Ha det bra! [/hɑ dɛ brɑː/] – Всего хорошего!/Пока!
 Vi ses! [/viː seːs/] – Увидимся!
 Vi snakkes! [/viː ˈsnɑkːəs/] – Поговорим позже!/До связи!
+
