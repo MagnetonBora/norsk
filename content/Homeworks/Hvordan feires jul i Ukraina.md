@@ -4,6 +4,8 @@ tags:
   - current
   - homework
 ---
+![[jul.png]]
+
 # 🇳🇴 Hvordan feires jul i Ukraina?
 
 I Ukraina er jul en av de viktigste høytidene i året, og den har mange tradisjonelle elementer. Mange familier feirer fortsatt jul etter den julianske kalenderen, den 7. januar, men flere og flere markerer også 25. desember.
@@ -99,3 +101,7 @@ In Ukraine, Christmas is celebrated either on December 25th or January 7th. The 
 * **å representere** – to represent
 * **å bevare tradisjoner** – to preserve traditions
 * **fellesskap** – community/togetherness
+
+---
+
+![[Sviat_Vechir_Ukrainian_Holy_Supper.pdf]]
