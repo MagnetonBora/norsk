@@ -6,6 +6,18 @@ tags:
   - vocabulary
   - misc
 ---
+en kopi = a copy
+en konto = an account
+ei kasse = a box
+et pass = a passport
+et skjema = a form
+et bilde = a picture
+et spill = a game
+et kort = a card
+en kode = a code
+et brev = a letter
+en kunde = a customer
+
 veldig = очень
 snill = добрый
 hele = весь
