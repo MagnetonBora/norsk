@@ -6,6 +6,45 @@ tags:
   - vocabulary
   - misc
 ---
+flyktning = a refugee
+sitter og tenker på = is sitting and thinking about
+en venn = a friend
+går på skole = goes to school
+skriver en e-post = writes an email
+forteller om = tells about
+livet = the life
+sender e-posten = sends the email
+leter etter = looks for
+nyheter = news
+går en tur = goes for a walk
+lengter hjem = longs for home
+tenker på = thinks about
+Det er langt fra... til... = It is far from... to...
+kjøper = buys
+en avis = a newspaper
+på veien hjem = on the way home
+en banan = a banana
+et eple = an apple
+spiser = eats
+litt trist = a little sad
+i dag = today
+treffer = meets
+kommer fra = comes from
+trening = training/practice
+bærer = carries
+ei treningsveske = a gym bag
+tar veska = takes the bag
+blir glad = becomes happy
+De går og snakker = They walk and talk
+er ikke så trist nå = is not so sad now
+er hjemme igjen = is home again
+ser på = watches/looks at
+vil gå på kino = wants to go to the cinema
+i kveld = tonight
+Om kvelden = In the evening
+ser en fransk film = watches a French film
+om kjærlighet = about love
+
 en kopi = a copy
 en konto = an account
 ei kasse = a box
