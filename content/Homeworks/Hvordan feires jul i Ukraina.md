@@ -105,3 +105,13 @@ In Ukraine, Christmas is celebrated either on December 25th or January 7th. The 
 ---
 
 ![[Sviat_Vechir_Ukrainian_Holy_Supper.pdf]]
+
+---
+
+# Norsk programleder leser
+
+![[jul-i-ukraina-nor.mp3]]
+
+# Jeg leser
+
+![[jul-i-ukraina-me.mp3]]
