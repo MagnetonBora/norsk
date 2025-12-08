@@ -29,7 +29,37 @@ Przyimki te opisują, **gdzie** coś się znajduje, bez sugerowania ruchu.
 | **OVER**         | nad                           | **Over** treet fløy en fugl.                 | Nad drzewem leciał ptak.              |
 | **OVERFOR**      | naprzeciwko                   | Han står **overfor** døra.                   | On stoi naprzeciwko drzwi.            |
 | **I MIDTEN AV**  | w środku                      | **I midten av** rommet sto juletreet.        | W środku pokoju stała choinka.        |
+| **GJENNOM**      | przez                         | Vi gikk gjennom skogen.                      | Przeszliśmy przez las.                |
+|                  |                               |                                              |                                       |
 
+Слово **“gjennom”** — это норвежский предлог/наречие, который означает **“через”, “сквозь”, “в течение”, “посредством”**. Вот несколько примеров использования в разных значениях:
+
+#### Пространство — «через», «сквозь»
+
+- **Vi gikk gjennom skogen.**  
+    Мы прошли через лес.
+    
+- **Lyset skinner gjennom vinduet.**  
+    Свет светит сквозь окно.
+    
+#### Время — «в течение»
+
+- **Han jobbet hardt gjennom hele natten.**  
+    Он работал всю ночь.
+    
+#### Процесс / средство — «посредством», «через»
+
+- **Vi kommuniserer gjennom e-post.**  
+    Мы общаемся через электронную почту.
+    
+- **Du kan lære språket gjennom praksis.**  
+    Ты можешь выучить язык через практику.
+    
+#### Преодоление — «через», «пережив»
+
+- **Hun kom seg gjennom en vanskelig periode.**  
+    Она прошла через трудный период.
+    
 ### Przyimki Określające Przemieszczanie się (Dynamiczne)
 
 Przyimki te wskazują **kierunek** lub **drogę** ruchu.

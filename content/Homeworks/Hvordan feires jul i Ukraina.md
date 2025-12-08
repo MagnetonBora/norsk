@@ -12,7 +12,7 @@ I Ukraina er jul en av de viktigste høytidene i året, og den har mange tradisj
 
 En veldig viktig del av julefeiringen er “Sviat Vechir”, det hellige julemåltidet, som finner sted på julaften. Måltidet består tradisjonelt av tolv retter, som symboliserer de tolv apostlene. Alle rettene er faste (uten kjøtt og melk), fordi julaften er en fastedag. De mest typiske rettene er:
 
-- **Kutja** – en søt hvete- eller bygggrøt med honning, valmuefrø, nøtter og rosiner.
+- **Kutja** – en søt hvete- eller bygg grøt med honning, valmuefrø, nøtter og rosiner.
     
 - **Varenyky** – dumplings fylt med potet, surkål eller sopp.
     

@@ -45,6 +45,8 @@ Om kvelden = In the evening
 ser en fransk film = watches a French film
 om kjærlighet = about love
 
+golvet = пол
+
 en kopi = a copy
 en konto = an account
 ei kasse = a box
