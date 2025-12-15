@@ -1,7 +1,6 @@
 ---
 tags:
   - vocabulary
-  - current
   - homework
 ---
 ![[jul.png]]
