@@ -16,6 +16,7 @@ et skjerf = a scarf
 et par sko = a pair of shoes
 et skjørt = a skirt
 en dress = a suit
+ei kåpe = a coat
 hansker = gloves
 
 ---

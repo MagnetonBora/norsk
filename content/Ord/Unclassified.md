@@ -6,6 +6,16 @@ tags:
   - vocabulary
   - misc
 ---
+har lyst til = хотеть, иметь желание (устойчивое выражение) Jeg har lyst til å se på klær.  
+
+Når skal vi treffes? = Когда мы встретимся?  
+Hvor finner jeg prøverom? = Где мне найти примерочную?  
+Har du en annen størrelse? = У вас есть другой размер?  
+Robin liker ikke å kjøpe klær. = Робин не любит покупать одежду.  
+Han kikker etter en sjokolade i kiosken. = Он ищет шоколад в киоске.  
+
+kikker = ищет  
+
 flyktning = a refugee
 sitter og tenker på = is sitting and thinking about
 en venn = a friend
