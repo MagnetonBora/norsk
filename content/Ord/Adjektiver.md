@@ -38,3 +38,31 @@ tags:
 | **vid**       | vidt                       | vide                                    | широкий, свободный             | **trang** (узкий, тесный)               |
 | **våt**       | vått                       | våte                                    | мокрый                         | **tørr** (сухой)                        |
 | **åpen**      | åpent                      | åpne                                    | открытый                       | **lukket** (закрытый)                   |
+
+---
+
+|**Мужской/Женский род**|**Средний род**|**Множественное число**|**Перевод**|
+|---|---|---|---|
+|**stor**|**stort**|**store**|большой|
+|**liten**|**lite**|**små**|маленький|
+|**dyr**|**dyrt**|**dyre**|дорогой (по цене)|
+|**billig**|**billig**|**billige**|дешевый|
+|**ny**|**nytt**|**nye**|новый|
+|**gammel**|**gammelt**|**gamle**|старый|
+|**kort**|**kort**|**korte**|короткий|
+|**lang**|**langt**|**lange**|длинный|
+|**varm**|**varmt**|**varme**|теплый / горячий|
+|**kald**|**kaldt**|**kalde**|холодный|
+|**god**|**godt**|**gode**|хороший / вкусный|
+|**dårlig**|**dårlig**|**dårlige**|плохой|
+|**pen**|**pent**|**pene**|красивый|
+|**stygg**|**stygt**|**stygge**|некрасивый / уродливый|
+|**lys**|**lyst**|**lyse**|светлый|
+|**mørk**|**mørkt**|**mørke**|темный|
+|**moderne**|**moderne**|**moderne**|современный|
+|**umoderne**|**umoderne**|**umoderne**|несовременный|
+|**norsk**|**norsk**|**norske**|норвежский|
+|**utenlandsk**|**utenlandsk**|**utenlandske**|иностранный|
+|**morsom**|**morsomt**|**morsomme**|смешной / интересный|
+|**kjedelig**|**kjedelig**|**kjedelige**|скучный|
+|**spennende**|**spennende**|**spennende**|захватывающий / увлекательный|
